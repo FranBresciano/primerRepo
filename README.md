@@ -1,2 +1,1 @@
 # primerRepo
-fix urgente
